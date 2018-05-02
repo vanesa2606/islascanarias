@@ -1,0 +1,25 @@
+header > img{
+
+    margin-left: 20px;
+
+}
+
+
+footer{
+background-color:rgb(196, 33, 60);
+color:white;
+}
+
+footer .col:first-child p:first-child{
+
+    font-weight: bolder;
+
+}
+
+
+#titulo1{
+    color:rgb(94, 6, 21);
+    font-weight: bolder;
+}
+
+
